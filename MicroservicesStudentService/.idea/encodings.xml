@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.6.1/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.6.2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesAddressService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesApplicationsGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesApplicationsGateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesCourseService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesCourseService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesCourseService2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesEurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesEurekaServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MicroservicesFaculityService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringBootBankingSecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringBootBankingSecurity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringBootRestApiSample/src/main/java" charset="UTF-8" />
+  </component>
+</project>
